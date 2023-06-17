@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe771aad32a89474690c5644bad7ea21, type: 3}
+  m_Name: DefaultDNS
+  m_EditorClassIdentifier: 
+  _breakBoycottDNS:
+  - DNSName: Shecan
+    PreferredDNS: 178.22.122.100
+    AlternativeDNS: 185.51.200.2
+  - DNSName: Electro
+    PreferredDNS: 78.157.42.100
+    AlternativeDNS: 78.157.42.101
+  - DNSName: Radar
+    PreferredDNS: 10.202.10.10
+    AlternativeDNS: 10.202.10.11
+  - DNSName: 403
+    PreferredDNS: 10.202.10.202
+    AlternativeDNS: 10.202.10.102
+  - DNSName: Server.ir
+    PreferredDNS: 172.29.0.100
+    AlternativeDNS: 172.29.2.100
+  - DNSName: Begzar
+    PreferredDNS: 185.55.226.26
+    AlternativeDNS: '185.55.225.25 '
+  - DNSName: Shatel
+    PreferredDNS: 82.15.1.14
+    AlternativeDNS: 82.15.1.15
+  - DNSName: Mianji
+    PreferredDNS: 10.10.202.10
+    AlternativeDNS: 10.10.202.11
+  _gamingDNS:
+  - DNSName: Google DNS
+    PreferredDNS: 8.8.8.8
+    AlternativeDNS: 8.8.4.4
+  - DNSName: Open DNS
+    PreferredDNS: 208.67.222.222
+    AlternativeDNS: 208.67.220.220
+  - DNSName: Cloud Flare
+    PreferredDNS: 1.1.1.1
+    AlternativeDNS: 1.0.0.1
+  - DNSName: Comodo Group
+    PreferredDNS: 8.26.56.26
+    AlternativeDNS: 8.20.247.20
+  - DNSName: Quad9
+    PreferredDNS: 9.9.9.9
+    AlternativeDNS: 49.112.112.112
+  - DNSName: Verisign
+    PreferredDNS: 64.6.64.6
+    AlternativeDNS: 64.6.65.6
+  BreakBoycottDNS:
+  - DNSName: Shecan
+    PreferredDNS: 178.22.122.100
+    AlternativeDNS: 185.51.200.2
+  - DNSName: Electro
+    PreferredDNS: 78.157.42.100
+    AlternativeDNS: 78.157.42.101
+  - DNSName: Radar
+    PreferredDNS: 10.202.10.10
+    AlternativeDNS: 10.202.10.11
+  - DNSName: 403
+    PreferredDNS: 10.202.10.202
+    AlternativeDNS: 10.202.10.102
+  - DNSName: Server.ir
+    PreferredDNS: 172.29.0.100
+    AlternativeDNS: 172.29.2.100
+  - DNSName: Begzar
+    PreferredDNS: 185.55.226.26
+    AlternativeDNS: '185.55.225.25 '
+  - DNSName: Shatel
+    PreferredDNS: 82.15.1.14
+    AlternativeDNS: 82.15.1.15
+  - DNSName: Mianji
+    PreferredDNS: 10.10.202.10
+    AlternativeDNS: 10.10.202.11
+  GamingDNS:
+  - DNSName: Google DNS
+    PreferredDNS: 8.8.8.8
+    AlternativeDNS: 8.8.4.4
+  - DNSName: Open DNS
+    PreferredDNS: 208.67.222.222
+    AlternativeDNS: 208.67.220.220
+  - DNSName: Cloud Flare
+    PreferredDNS: 1.1.1.1
+    AlternativeDNS: 1.0.0.1
+  - DNSName: Comodo Group
+    PreferredDNS: 8.26.56.26
+    AlternativeDNS: 8.20.247.20
+  - DNSName: Quad9
+    PreferredDNS: 9.9.9.9
+    AlternativeDNS: 49.112.112.112
+  - DNSName: Verisign
+    PreferredDNS: 64.6.64.6
+    AlternativeDNS: 64.6.65.6

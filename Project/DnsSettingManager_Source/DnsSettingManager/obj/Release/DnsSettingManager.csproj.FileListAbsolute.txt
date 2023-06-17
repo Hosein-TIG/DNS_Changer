@@ -1,0 +1,12 @@
+E:\C# Projects\DnsSettingManager\DnsSettingManager\obj\Release\DnsSettingManager.csproj.AssemblyReference.cache
+E:\C# Projects\DnsSettingManager\DnsSettingManager\obj\Release\DnsSettingManager.csproj.CoreCompileInputs.cache
+E:\C# Projects\DnsSettingManager\DnsSettingManager\bin\Release\DnsSettingManager.dll
+E:\C# Projects\DnsSettingManager\DnsSettingManager\bin\Release\DnsSettingManager.pdb
+E:\C# Projects\DnsSettingManager\DnsSettingManager\obj\Release\DnsSettingManager.dll
+E:\C# Projects\DnsSettingManager\DnsSettingManager\obj\Release\DnsSettingManager.pdb
+E:\Projects\DNS_Changer\DnsSettingManager_Source\DnsSettingManager\DnsSettingManager\bin\Release\DnsSettingManager.dll
+E:\Projects\DNS_Changer\DnsSettingManager_Source\DnsSettingManager\DnsSettingManager\bin\Release\DnsSettingManager.pdb
+E:\Projects\DNS_Changer\DnsSettingManager_Source\DnsSettingManager\DnsSettingManager\obj\Release\DnsSettingManager.csproj.AssemblyReference.cache
+E:\Projects\DNS_Changer\DnsSettingManager_Source\DnsSettingManager\DnsSettingManager\obj\Release\DnsSettingManager.csproj.CoreCompileInputs.cache
+E:\Projects\DNS_Changer\DnsSettingManager_Source\DnsSettingManager\DnsSettingManager\obj\Release\DnsSettingManager.dll
+E:\Projects\DNS_Changer\DnsSettingManager_Source\DnsSettingManager\DnsSettingManager\obj\Release\DnsSettingManager.pdb

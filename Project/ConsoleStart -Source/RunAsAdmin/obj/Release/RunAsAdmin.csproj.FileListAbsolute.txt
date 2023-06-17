@@ -1,0 +1,8 @@
+E:\C# Projects\RunAsAdmin\RunAsAdmin\obj\Release\RunAsAdmin.csproj.AssemblyReference.cache
+E:\C# Projects\RunAsAdmin\RunAsAdmin\obj\Release\RunAsAdmin.csproj.SuggestedBindingRedirects.cache
+E:\C# Projects\RunAsAdmin\RunAsAdmin\obj\Release\RunAsAdmin.csproj.CoreCompileInputs.cache
+E:\C# Projects\RunAsAdmin\RunAsAdmin\bin\Release\Start.exe.config
+E:\C# Projects\RunAsAdmin\RunAsAdmin\bin\Release\Start.exe
+E:\C# Projects\RunAsAdmin\RunAsAdmin\bin\Release\Start.pdb
+E:\C# Projects\RunAsAdmin\RunAsAdmin\obj\Release\Start.exe
+E:\C# Projects\RunAsAdmin\RunAsAdmin\obj\Release\Start.pdb
